@@ -1,0 +1,22 @@
+1 - Estudar PHP POO
+
+2 - Estuda MVC com PHP (Model-View-Controller)
+
+3 - Modifcar o Blog_CakePHP
+
+	a) Adicionar imagem de edição no botão editar;
+	
+	b) Adicionar imagem de deletar no botão delete;
+	
+	c) Colocar um collapse na coluna title para ver as informações sem precisar
+	mudar de página;
+	
+	d) Filtro de data;
+	
+	e) Filtro de título;
+	
+	f) Filtro de autor;
+	
+	g) Admin pode ver e editar todos;
+	
+	h) Autor pode ver todos, porém só pode editar o dele.
